@@ -1,0 +1,31 @@
+Date,Category,Description,Amount,Payment_Method
+2026-08-01,Food,Breakfast,80,UPI
+2026-08-01,Transport,Bus,30,Cash
+2026-08-02,Education,Notebook,120,UPI
+2026-08-02,Food,Lunch,150,UPI
+2026-08-03,Entertainment,Movie,250,Card
+2026-08-03,Transport,Auto,100,Cash
+2026-08-04,Food,Snacks,60,UPI
+2026-08-04,Education,Pen Drive,450,Card
+2026-08-05,Shopping,Clothes,900,UPI
+2026-08-05,Food,Dinner,180,Cash
+2026-08-06,Transport,Bus,30,UPI
+2026-08-06,Entertainment,Game,150,UPI
+2026-08-07,Education,Book,350,Card
+2026-08-07,Food,Lunch,140,UPI
+2026-08-08,Shopping,Accessories,300,Cash
+2026-08-08,Transport,Auto,120,UPI
+2026-08-09,Food,Breakfast,90,Cash
+2026-08-09,Entertainment,Cafe,200,UPI
+2026-08-10,Education,Course Material,500,Card
+2026-08-10,Food,Dinner,170,UPI
+2026-08-11,Transport,Bus,30,Cash
+2026-08-11,Shopping,Stationery,180,UPI
+2026-08-12,Food,Snacks,70,UPI
+2026-08-12,Entertainment,Music,100,UPI
+2026-08-13,Education,Assignment Print,80,Cash
+2026-08-13,Food,Lunch,160,UPI
+2026-08-14,Transport,Auto,90,Cash
+2026-08-14,Shopping,Bag,650,Card
+2026-08-15,Food,Dinner,190,UPI
+2026-08-15,Entertainment,Outing,300,UPI
