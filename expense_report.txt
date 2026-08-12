@@ -1,0 +1,36 @@
+=======================================================
+             PERSONAL EXPENSE REPORT
+=======================================================
+
+DATASET OVERVIEW
+-------------------------------------------------------
+Total Transactions : 30
+Total Spending    : ₹6,220.00
+Average Expense   : ₹207.33
+Median Expense    : ₹150.00
+
+HIGHEST EXPENSE
+-------------------------------------------------------
+Clothes (Shopping) - ₹900.00
+
+CATEGORY-WISE SPENDING
+-------------------------------------------------------
+Shopping             ₹2,030.00
+Education            ₹1,500.00
+Food                 ₹1,290.00
+Entertainment        ₹1,000.00
+Transport            ₹400.00
+
+PAYMENT METHOD USAGE
+-------------------------------------------------------
+UPI                  17 transactions
+Cash                 8 transactions
+Card                 5 transactions
+
+KEY INSIGHT
+-------------------------------------------------------
+The highest spending category is Shopping with total spending of ₹2,030.00.
+
+=======================================================
+Report generated automatically using Python.
+=======================================================
